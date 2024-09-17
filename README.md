@@ -25,8 +25,11 @@
 ```
 
 `host`为鱼池源地址
+
 `port`为鱼池端口
+
 `localPort`为本地监听端口
 
 `commissionAccounts` 和 `commissionRates` 是配对使用的，`commissionAccounts` 的数量和 `commissionRates` 的数量需要保持一致。
+
 `commissionRates` 表示对应账号的佣金比例，例如 `0.9` 表示 `commissionAccounts` 的第一个账号的佣金为 `90%`，第二个账号的佣金为 `10%`。·`commissionRates` 相加不能超过 1。
