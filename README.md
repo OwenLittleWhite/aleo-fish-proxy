@@ -7,9 +7,9 @@
 
 1. 下载软件
 
-[windows 下载地址](http://82.156.172.63:8080/s/CY8QPkKNmLtqNkn)
+[windows 下载地址](http://82.156.172.63:8080/s/PE5mZQaz7ywo3e4)
 
-[ubuntu 下载地址](http://82.156.172.63:8080/s/7ZoRwxFXCC5QtoB)
+[ubuntu 下载地址](http://82.156.172.63:8080/s/Wyzk6wT4jr5cTjA)
 
 2. 配置
    在下载好的同级目录下，创建一个`config.json`文件，填入以下内容：
