@@ -12,9 +12,9 @@
 1. 下载软件
 
 
-[windows 下载地址](http://82.156.172.63:8080/s/nXEFGrdR26p2GMH)
+[windows 下载地址](http://82.156.172.63:8080/s/7YmyT8R53REsLm5)
 
-[ubuntu 下载地址](http://82.156.172.63:8080/s/3o99xDJKcd7ePFF)
+[ubuntu 下载地址](http://82.156.172.63:8080/s/ZpDX26DqRE5KZGF)
 
 2. 配置
 
@@ -58,7 +58,7 @@
 3. 运行
 
 ```
-nohup ./aleo-proxy-v1.1 2>&1 &
+nohup ./aleo-proxy-v1.2 2>&1 &
 ```
 
 日志文件位于`logs`目录下
